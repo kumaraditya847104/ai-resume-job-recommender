@@ -1,0 +1,13 @@
+job_id,job_title,skills,description
+1,Machine Learning Engineer,"Python, Machine Learning, Scikit-learn, Pandas, NumPy, SQL, Docker, AWS","Build and deploy machine learning models, preprocess data, evaluate models and maintain ML pipelines."
+2,Data Scientist,"Python, Machine Learning, Statistics, Pandas, NumPy, SQL, Scikit-learn, Tableau","Analyze data, build predictive models, perform statistical analysis and communicate insights."
+3,Data Analyst,"Python, SQL, Excel, Pandas, Power BI, Tableau, Statistics","Create dashboards, analyze business data, write SQL queries and communicate actionable insights."
+4,AI Engineer,"Python, Deep Learning, TensorFlow, PyTorch, NLP, Machine Learning, Docker","Develop AI applications using deep learning, NLP and production machine learning techniques."
+5,Python Developer,"Python, Django, Flask, REST API, SQL, Git, Docker",Develop backend services and REST APIs using Python frameworks and relational databases.
+6,Full Stack Developer,"JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Git",Build responsive web applications across frontend and backend technologies.
+7,Frontend Developer,"JavaScript, React, HTML, CSS, Git, Bootstrap",Create responsive user interfaces and reusable frontend components.
+8,Backend Java Developer,"Java, Spring Boot, REST API, MySQL, SQL, Git, Docker",Develop scalable backend services and APIs using Java and Spring Boot.
+9,Cloud/DevOps Engineer,"AWS, Docker, Kubernetes, Linux, Jenkins, Git, CI/CD, Python","Automate deployments, manage cloud infrastructure and build reliable CI/CD pipelines."
+10,NLP Engineer,"Python, NLP, Transformers, BERT, PyTorch, Machine Learning, SQL","Build natural language processing systems for classification, search and text understanding."
+11,Business Intelligence Analyst,"SQL, Power BI, Tableau, Excel, Python, Statistics","Build BI dashboards, analyze KPIs and deliver business intelligence reports."
+12,MLOps Engineer,"Python, Docker, Kubernetes, AWS, MLflow, Git, CI/CD, Scikit-learn","Operationalize ML models, automate model deployment and monitor ML pipelines."
